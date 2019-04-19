@@ -1,0 +1,8 @@
+src\domain\StudentRepositoryImpl.class
+src\application\ApplicationService.class
+src\application\ApplicationServiceImpl.class
+src\HibernateSessionFactory.class
+src\presentation\Main.class
+src\domain\StudentEntity.class
+src\domain\StudentRepository.class
+src\AppConfig.class
